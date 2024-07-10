@@ -15,7 +15,6 @@ Diseño Pattern Repository
 
 - `dev`: Inicia el servidor con Nodemon.
   ```bash
-  npm run dev
   npm install
   npm run dev
   ```
